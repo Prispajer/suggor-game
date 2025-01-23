@@ -23,13 +23,19 @@
 - **Endgame**: After completing all levels, the player faces the final challenge – a powerful boss.
 
 # Game Screenshots and Demo
- <div align="center">
-  ![Game Screenshots](https://drive.usercontent.google.com/download?id=1tAP9arK2iRB2P-URoWvu8L2xvmQoo1eW&export=view&authuser=0)
-
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1tAP9arK2iRB2P-URoWvu8L2xvmQoo1eW" alt="Game Screenshot 1" />
 </div>
- <div align="center">
-  ![Game Screenshots](https://drive.usercontent.google.com/download?id=1gXJHEO7VMR2Kbe2Ckiu8PSptZuQQzskO&export=view&authuser=0)
-</div>****
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1gXJHEO7VMR2Kbe2Ckiu8PSptZuQQzskO" alt="Game Screenshot 2" />
+</div>
+
+- **Demo**
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=n5Nbwd-BqBI" target="_blank">
+    <img src="https://img.youtube.com/vi/n5Nbwd-BqBI/0.jpg" alt="Suggor Game Demo on YouTube" />
+  </a>
+</div>
 
 - **Demo**
  <div align="center">
