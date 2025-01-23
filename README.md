@@ -31,13 +31,6 @@
 </div>
 
 - **Demo**
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=n5Nbwd-BqBI" target="_blank">
-    <img src="https://img.youtube.com/vi/n5Nbwd-BqBI/0.jpg" alt="Suggor Game Demo on YouTube" />
-  </a>
-</div>
-
-- **Demo**
  <div align="center">
   <a href="https://www.youtube.com/watch?v=n5Nbwd-BqBI" target="_blank">
     <img src="https://img.youtube.com/vi/n5Nbwd-BqBI/0.jpg" alt="Suggor Game Demo on YouTube" />
