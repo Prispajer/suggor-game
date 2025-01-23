@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./ECommerce/ECommerce/Client/wwwroot/QuarryByteMascot.png" alt="Logo" width="300" height="300" style="vertical-align: middle;"/>
   <h1 style="display: inline; vertical-align: middle;">Suggor - 2D Platform Game</h1>
 </div>
 
@@ -24,8 +23,13 @@
 - **Endgame**: After completing all levels, the player faces the final challenge – a powerful boss.
 
 # Game Screenshots and Demo
+ <div align="center">
   ![Game Screenshots](https://drive.usercontent.google.com/download?id=1tAP9arK2iRB2P-URoWvu8L2xvmQoo1eW&export=view&authuser=0)
+
+</div>
+ <div align="center">
   ![Game Screenshots](https://drive.usercontent.google.com/download?id=1gXJHEO7VMR2Kbe2Ckiu8PSptZuQQzskO&export=view&authuser=0)
+</div>****
 
 - **Demo**
  <div align="center">
